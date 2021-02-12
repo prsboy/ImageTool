@@ -1,0 +1,28 @@
+﻿  AddNoiseDlg.cpp
+  ArithmeticLogicalDlg.cpp
+  BrightnessContrastDlg.cpp
+  CBinarizationDlg.cpp
+  CColorCombineDlg.cpp
+  CFourierDescDlg.cpp
+  CannyEdgeDlg.cpp
+  ChildFrm.cpp
+  DiffusionDlg.cpp
+  FileNewDlg.cpp
+  FreqFilteringDlg.cpp
+  GammaCorrectionDlg.cpp
+  GaussianDlg.cpp
+  HarrisCornerDlg.cpp
+  HistogramDlg.cpp
+  ImageTool.cpp
+  ImageToolDoc.cpp
+  ImageToolView.cpp
+  IppSegment.cpp
+  MainFrm.cpp
+  코드를 생성하고 있습니다...
+  컴파일하고 있습니다...
+  OutputWnd.cpp
+  ResizeDlg.cpp
+  RotateDlg.cpp
+  TranslateDlg.cpp
+  코드를 생성하고 있습니다...
+  ImageTool.vcxproj -> \\Mac\Home\Desktop\ImageTool\Debug\ImageTool_ch11.exe
